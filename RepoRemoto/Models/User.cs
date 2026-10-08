@@ -1,0 +1,3 @@
+﻿namespace RepoRemoto.Models;
+
+public record User(int Id, string Name, string Username, string Email);
